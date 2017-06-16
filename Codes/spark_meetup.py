@@ -18,7 +18,7 @@ def city_count(newValue, oldValue):
 
 if __name__ == "__main__":
 
-    #Creaitng spark Context since we are submitting from the command line
+    #Creating spark Context since we are submitting from the command line
     sc = SparkContext("local[2]",appName="MeetupStreaming")
     sc.setLogLevel("WARN")
 
