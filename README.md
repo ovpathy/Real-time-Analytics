@@ -18,7 +18,7 @@ Kafka producer program which will connect to web socket and sends to topic names
 Kafka consumer consumes messages from the topic 'meetup'.
 
 ### spark_meetup.py
-Spark application program to do some analysis. This above program submitted using the below command<br>
+Spark application program to do some analysis. This program submitted using the below command<br>
 bin/spark-submit --packages org.apache.spark:spark-streaming-kafka-0-8_2.11:2.0.1 spark_meetup.py localhost:2181 meetup
 
 ### visualization.py
