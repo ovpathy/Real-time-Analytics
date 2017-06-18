@@ -5,8 +5,8 @@ Found out the topic trends and trending cities.
 
 ## Technical aspects
 Zookeeper - Confuguration manager necessary for Apache Kafka, Spark, Mongo DB etc.<br>
-Zookeeper started(if not already) using \n
-bin/zookeeper-server-start.sh config/zookeeper.properties
+<p>Zookeeper started(if not already) using<br>
+bin/zookeeper-server-start.sh config/zookeeper.properties</p>
 
 Kafka started using the below command.
 bin/kafka-server-start.sh config/server.properties
