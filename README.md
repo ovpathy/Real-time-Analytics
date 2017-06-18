@@ -1,4 +1,4 @@
-# Real-time-Analytics
+# Real-time Analytics
 A project to analyze Meetup website's RSVPs real-time. 
 
 Found out the topic trends and trending cities.
