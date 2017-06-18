@@ -4,7 +4,7 @@ A project to analyze Meetup website's RSVPs real-time.
 Found out the topic trends and trending cities.
 
 ## Technical aspects
-zookeeper - Confuguration manager necessary for kafka, spark, Mongo DB etc.
+zookeeper - Confuguration manager necessary for Apche Kafka, Spark, Mongo DB etc.
 zookeeper started(if not already) using
 bin/zookeeper-server-start.sh config/zookeeper.properties
 
