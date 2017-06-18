@@ -8,8 +8,8 @@ Zookeeper - Confuguration manager necessary for Apache Kafka, Spark, Mongo DB et
 <p>Zookeeper started(if not already) using<br>
 bin/zookeeper-server-start.sh config/zookeeper.properties</p>
 
-Kafka started using the below command.
-bin/kafka-server-start.sh config/server.properties
+<p>Kafka started using the below command.<br>
+bin/kafka-server-start.sh config/server.properties</p>
 
 ### Producer.py
 Kafka producer program which will connect to web socket and sends to topic meetup.
