@@ -12,10 +12,10 @@ bin/zookeeper-server-start.sh config/zookeeper.properties</p>
 bin/kafka-server-start.sh config/server.properties</p>
 
 ### Producer.py
-Kafka producer program which will connect to web socket and sends to topic meetup.
+Kafka producer program which will connect to web socket and sends to topic names 'meetup'.
 
 ### Consumer.py
-Kafka consumer consumes messages from the topic meetup.
+Kafka consumer consumes messages from the topic 'meetup'.
 
 ### spark_meetup.py
 Spark application program to do some analysis
